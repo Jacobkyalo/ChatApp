@@ -27,8 +27,8 @@ img {
 .container {
   background-color: #0ff;
   color: #333;
-  height: 100vh;
-  width: 30vw;
+  height: auto;
+  width: 28vw;
   border: 1px solid #111;
   line-height: 1.2;
   padding: 15px;
