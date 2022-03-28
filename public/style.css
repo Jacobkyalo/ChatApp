@@ -37,9 +37,11 @@ img {
 .heading {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   margin-top: 5px;
   margin-bottom: 20px;
 }
+
 .heading h3 {
   font-weight: 300;
 }
@@ -66,10 +68,13 @@ img {
 .contact-person {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   margin: 20px 0;
 }
-.contact-person .person {
+.person {
   display: flex;
+  justify-content: center;
+  align-items: center;
   padding-right: 5px;
 }
 .person-info{
